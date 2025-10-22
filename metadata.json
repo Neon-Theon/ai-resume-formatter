@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Formatter",
+  "description": "An AI-powered tool that accepts a user’s existing résumé, analyzes its content, and outputs a redesigned, modernized résumé in multiple style options to improve readability, visual appeal, and ATS compatibility.",
+  "requestFramePermissions": []
+}
