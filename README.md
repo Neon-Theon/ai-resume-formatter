@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/status-learning%20project-yellow)
+![Purpose](https://img.shields.io/badge/purpose-ATS%20Optimization-green)
+![Tech](https://img.shields.io/badge/tech-AI%20Analysis-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
